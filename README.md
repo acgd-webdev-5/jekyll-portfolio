@@ -1,6 +1,6 @@
 ---
 summary: 'Move the interactive wireframes for you portfolio website to Jekyll and start building out the pages.'
-time: '2 hours'
+time: '4 hours'
 deliverables: 'Jekyll website files'
 ---
 
