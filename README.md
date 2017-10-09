@@ -9,22 +9,16 @@ deliverables: 'Jekyll website files'
 ## Overview
 
 - Set up your portfolio website to use Jekyll—making the `_config.yml` file.
+- **Make sure to create the `.gitignore` file too!**
 - Create a default layout that contains the header and footer of your website—and anything else common like the navigation.
-  *(I know this doesn’t totally make sense for single-page websites, but it’s still good practice.)*
 - Start breaking apart your interactive wireframes to reduce code duplication as much as possible.
 - Populate the website with all your portfolio pieces—it’s okay to have fake images still.
-
-### For single-page websites
-
-- Make a loop to generate all the portfolio pieces onto your page.
-- You could get the data for the loop from `_data`, `_posts` or maybe even collections.
-
-### For multi-page websites
-
 - Create HTML files for each portfolio piece—use the layout to add the header and footer.
 - Figure out a way to reduce the duplication of code for each portfolio piece: includes, nested layouts, etc.
 
-**Ideally there should be no code duplication.** But if you’re doing lots of custom case-studies (like you should be) there will definitely be some duplication.
+*Ideally there should be no code duplication.* But if you’re doing lots of custom case-studies (like you should be) there will definitely be some duplication.
+
+**If you find yourself copying-and-pasting HTML code there’s a much better way to solve the problem.**
 
 ---
 
