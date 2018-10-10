@@ -9,7 +9,7 @@ deliverables: 'Jekyll website files'
 ## Overview
 
 - Set up your portfolio website to use Jekyll—making the `_config.yml` file.
-- **Make sure to create the `.gitignore` file too!**
+- **The `.gitignore` file was already created for you when you forked your `portfolio` repo.**
 - Create a default layout that contains the header and footer of your website—and anything else common like the navigation.
 - Start breaking apart your interactive wireframes to reduce code duplication as much as possible.
 - Populate the website with all your portfolio pieces—it’s okay to have fake images still.
